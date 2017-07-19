@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<FrameLayout
+    android:id="@+id/content_frame"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/nitk"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.bordia98.firstyearnitk.MainActivity"
+    tools:showIn="@layout/app_bar_main">
+
+<ScrollView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+<LinearLayout
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:orientation="vertical">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="30dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#ffffff"
+        android:text="@string/the_national_institute_of_technology_karnataka_nitk_surathkal_has_established_itself_as_one_of_the_top_technological_institutions_in_india_and_richly_deserved_recognition_as_an_institute_of_national_importance_under_the_nit_act_2007_accreditation_of_all_our_academic_programs_by_nba_many_with_highest_rating_recognition_as_a_qip_center_initiation_and_operationalization_of_mous_with_several_national_and_international_institutions_more_competitive_student_admissions_and_improved_performance_of_students_in_examinations_are_achievements_that_bear_testimony_to_our_commitment_to_maintain_quality_in_all_processes_and_systems_nitk_is_making_sustained_efforts_towards_consolidation_of_the_state_of_the_art_infrastructural_facilities_for_teaching_and_research_attracting_highly_qualified_and_motivated_staff_into_the_existing_pool_and_ensuring_availability_of_all_other_amenities_necessary_for_imparting_globally_relevant_technological_education_a_research_culture_is_taking_shape_in_the_institute_through_enhanced_r_d_activities_creation_of_centers_for_interdisciplinary_research_establishment_of_industry_sponsored_charis_stronger_interface_with_industry_alumni_and_a_special_focus_on_new_post_graduate_and_doctoral_programs_team_nitk_is_fully_geared_to_take_on_the_challenges_of_the_21st_century_to_establish_itself_as_a_world_class_technological_institution_prof_swapan_bhattacharya_director_nitk_surathkal"
+        android:id="@+id/directors"/>
+     <TextView
+         android:layout_width="match_parent"
+         android:layout_height="20dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/vision"
+        android:textAlignment="center"
+        android:textColor="#ffff"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:id="@+id/visionsheading" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="20dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#ffff"
+        android:text="@string/to_facilitate_transformation_of_students_into_good_human_beings_responsible_citizens_and_competent_professionals_focusing_on_assimilation_generation_and_dissemination_of_knowledge"
+        android:id="@+id/visions"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="20dp" />
+    <TextView
+        android:id="@+id/missionsheading"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/missions"
+        android:textAlignment="center"
+        android:textColor="#ffff"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="20dp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#ffff"
+        android:layout_below="@+id/missionsheading"
+        android:text="1.) Impart quality education to meet the needs of profession and society, and achieve excellence in teaching-learning and research.
+
+2.) Attract and develop talented and committed human resource, and provide an environment conducive to innovation, creativity, team-spirit and entrepreneurial leadership.
+
+3.) Facilitate effective interactions among faculty and students, and foster networking with alumni, industries, institutions and other stake-holders.
+
+4.)Practice and promote high standards of professional ethics, transparency and accountability.
+
+"
+
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"/>
+
+</LinearLayout>
+</ScrollView>
+
+</FrameLayout>

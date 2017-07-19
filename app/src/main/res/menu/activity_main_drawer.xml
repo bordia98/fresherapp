@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/map"
+            android:title="Map" />
+        <item
+            android:id="@+id/books"
+
+            android:title="books" />
+        <item
+            android:id="@+id/clubs"
+
+            android:title="clubs" />
+        <item
+            android:id="@+id/fests"
+
+            android:title="College Fest" />
+        <item
+            android:id="@+id/stuff"
+            android:title="What to carry"/>
+        <item
+            android:title="Contact us"
+            android:id="@+id/contactus"/>
+    </group>
+
+
+</menu>

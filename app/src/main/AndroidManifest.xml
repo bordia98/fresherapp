@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.bordia98.firstyearnitk"
+    android:versionCode="1"
+    android:versionName="2">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:largeHeap="true"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".physics" />
+        <activity android:name=".chemistry" />
+        <activity android:name=".technicalclub" />
+        <activity android:name=".culturalclubs" />
+        <activity android:name=".Engineer" />
+        <activity android:name=".incident" />
+        <activity android:name=".crescendo" />
+        <activity android:name=".pheonix" />
+        <activity android:name=".bd" />
+        <activity android:name=".spandan"></activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/nitk">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="20dp" />
+        <Button
+            android:id="@+id/engineer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#ffffff"
+            android:text="1.) Engineer- Techfest"
+            android:textSize="25dp"
+            android:textStyle="bold"
+            android:background="#000000"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="20dp" />
+        <Button
+            android:id="@+id/incident"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#ffffff"
+            android:text="2.) Incident - culturalfest"
+            android:textSize="25dp"
+            android:textStyle="bold"
+            android:background="#000000"/>
+        <TextView
+
+            android:layout_width="match_parent"
+            android:layout_height="20dp" />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#ffffff"
+            android:text="3.) Crescendo"
+            android:textSize="25dp"
+            android:textStyle="bold"
+            android:id="@+id/crescendo"
+            android:background="#000000"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="20dp" />
+        <Button
+            android:id="@+id/pheonix"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#ffffff"
+            android:text="4.) Pheonix"
+            android:textSize="25dp"
+            android:textStyle="bold"
+            android:background="#000000"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="20dp" />
+        <Button
+            android:id="@+id/spandan"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#ffffff"
+            android:text="5.)Spandan"
+            android:textSize="25dp"
+            android:textStyle="bold"
+            android:background="#000000"/>
+        <TextView
+        android:layout_width="match_parent"
+        android:layout_height="20dp" />
+
+        <Button
+            android:id="@+id/bd"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#ffffff"
+            android:text="6.)Bharat Darshan "
+            android:textSize="25dp"
+            android:textStyle="bold"
+            android:background="#000000"/>
+    </LinearLayout>
+</ScrollView>

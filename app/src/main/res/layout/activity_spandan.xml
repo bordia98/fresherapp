@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000"
+    tools:context="com.example.bordia98.firstyearnitk.spandan">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30dp"
+        android:textAlignment="center"
+        android:layout_gravity="center_horizontal"
+        android:text="Spandan - NITK"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="30dp" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:background="@drawable/sp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="30dp" />
+<ImageView
+    android:layout_width="match_parent"
+    android:layout_height="300dp"
+    android:background="@drawable/sp1"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="30dp" />
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:textSize="20dp"
+    android:text="Spandan is a one day event but it is the first event for the first years to participate. This event is organised by the DDFC NITK. Freshies this is  a must you should participate as through this event you come in contact your fellow mates and seniors also .
+So grab the opportunity through spandan ."/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="30dp" />
+<ImageView
+    android:layout_width="match_parent"
+    android:layout_height="300dp"
+    android:background="@drawable/sp2"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="30dp" />
+<ImageView
+    android:layout_width="match_parent"
+    android:layout_height="300dp"
+    android:background="@drawable/sp3"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="30dp" />
+<ImageView
+    android:layout_width="match_parent"
+    android:layout_height="300dp"
+    android:background="@drawable/sp4"/>
+
+</LinearLayout>
+</ScrollView>

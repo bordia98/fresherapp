@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/engilogo"
+    tools:context="com.example.bordia98.firstyearnitk.Engineer">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="wrap_content"
+            android:layout_height="150dp"
+            android:background="@drawable/engi"
+            android:layout_gravity="center"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="30dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Engineer - Techfest"
+            android:textSize="30dp"
+            android:textStyle="bold"
+            android:textColor="#ffffff"
+            android:layout_gravity="center"
+            android:textAlignment="center"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="30dp" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/engi3"
+            android:layout_gravity="center"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="30dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:textColor="#ffffff"
+
+            android:text="Engineer is the Annual Technical Symposium of NITK Surathkal and is one of the largest of its kind in India. Started in 2005 as an amalgamation of many technical fests held in NITK Surathkal by its various student clubs, Engineer has grown in leaps and bounds over the years. It is held over 4 days in the second half of the month of October and has consistently attracted participants from all over India. A Penrose Triangle is used as its logo with the tagline 'Think.Create.Engineer'.
+
+In its previous editions, Engineer brought organizations such as CERN, MIT Media and Bell labs while catering to a participation pool of over 6000 students from 150 colleges across 65 countries.
+
+Many technical and entrepreneurship events are held during the fest, including quizzes, Coding marathons, RC car racing and the like. These are broadly classified into various Branch Events. Apart from this, Workshops in a variety of fields are also held. To highlight the social responsibility of Engineers, social/environmental awareness initiatives are undertaken under the banner of SCE(Socially Conscious Engineering). Technites is another major attraction, showcasing the beauty of technology after dark.
+
+Guest speakers of past editions have included Richard Stallman, Sam Pitroda, Dr. Devi Shetty, Sir Anthony James Leggett, Ankit Fadia and other personalities."/>
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="30dp" />
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="300dp"
+            android:background="@drawable/engi1"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="30dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#ffffff"
+
+            android:text="Engineer or ‘Engi’ as we call it, is the annual technical symposium of
+NITK. It is held in the odd semester (i.e. July-December) usually for
+around 4-5 days. You will see the college dressed for the festival in
+vibrant colours of excitement and joy.
+
+It is generally held in the month of October with the rains coming
+to a close and the winter (tit-bits of it) settling in on the beaches of
+Surathkal.
+
+From the first day of college you will be back in hostels by say, around 10(exception for block 7 people though). But during
+Engineer, cheer up! No block timings for first year boys, there are
+some rules for girls though but acceptable. You will be free to roam
+around the campus under a blanket of starry skies which you will
+often not have in the cloudy metros. It is an amazing experience, we
+assure you. The technical part sure is important but experiencing the college at night with friends is an experience to boast of! To top it all we have events taking place at this time of the day, Technites!
+
+The events? Wait.
+
+Talking of the best first, Velocity is an extremely well planned event with participation from many colleges in and around Mangalore up to Mysore. Said to be the flagship event of Engi, it stands up to its mark.
+
+People gather around the arena around two hours early to book seats. Yes, it is true. We need not say more, the track and the cars speak themselves. The winning team takes home a mammoth 25,000 rupees for their efforts. In-house participation is also seen a lot.
+
+Watch robots get (literally) crushed in Robo Wars. I assure you, it is not a great sight and you sometimes feel sorry for the participants
+to watch their efforts go up in flames (really) .
+
+This is the last day. What about the rest of ‘em? Don’t worry. There's plenty of stuff happening to keep you busy.
+
+For the Googlers out there, Virtual Bounty is the online treasure hunt competition of Engineer. Some of you might be familiar with what an OTH is, for others it is basically “How well can you Google? “. VB-2016 was really great! It goes on throughout the Engineer schedule. So when you come back to the hostels from the events there is some excitement waiting for you online.
+
+"
+            android:textSize="20dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="30dp" />
+
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/engi2"/>
+
+
+
+    </LinearLayout>
+</ScrollView>

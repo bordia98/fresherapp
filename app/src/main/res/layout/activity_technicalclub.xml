@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/nitk"
+    tools:context="com.example.bordia98.firstyearnitk.technicalclub">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#ffffff"
+        android:text="Technical CLubs -"
+        android:textSize="40dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#ffffff"
+        android:text="
+1.) Major national and international technical societies have set up local student chapters at NITK. They include Indian Society for Technical Education (ISTE), the Institution of Engineers, the Computer Society of India, the Institute of Electrical and Electronics Engineers (IEEE) and Robotics Club NITK.
+"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#ffffff"
+        android:text="
+
+
+2.) The Society of Automotive Engineers (SAE) has an active chapter constituted by Mechanical Engineering students. They conduct events like 'How stuff works', 'Under the hood', 'Can you fix it?' and also a Vintage Auto Expo. NITK has a racing team which participates in SAE BAJA. In 2011, its sister team NITK Racing FSAE participated in FSAE Michigan USA 2011, the toughest circuit on the FSAE calendar. It was the only team from India to participate in the event.
+"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#ffffff"
+        android:text="
+3.) NITK has a Linux Users Group, which along with the WEB Enthusiasts Club promotes FOSS and Linux. The Robotics Club (along with IEEE) at NITK is a group of students that aims to create a robotics culture in the institute. They provide tools, equipment and expert guidance so that academic projects in the area of robotics can be successful.
+
+"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#ffffff"
+        android:text="
+
+
+4.) The Engineers' Forum for Entrepreneurship Awareness (E-FOREA) encourages entrepreneurial ideas from students and promotes leadership and entrepreneurship on campus. E-Pitch is their flagship business idea competition which attracts participation from all over the country.
+
+"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#ffffff"
+        android:text="
+
+
+5.) The amateur astronomy Star Gazing Club conducts star-watching shows for the students and faculty. It runs astronomy workshops for school students in the region. It has recently acquired a radio telescope setup from Radio Jove, and this affords the students some opportunities in learning astronomy beyond the visible spectrum.
+"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#ffffff"
+        android:text="
+
+
+6.) The Robotics Club of NITK is a group of hobby robot enthusiasts. Members involve in presenting seminars on various levels of robotics to participating in renowned tech-fests like TECHFEST, IITB, SHAASTRA, IITM,etc.Recently, it has undertaken to build the Coconut Harvester Robot, in joint with CPCRI, Kasaragod to build an autonomous coconut tree harvester.
+"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#03A9F4"
+        android:text="
+
+Note-
+
+You are allowed to enter clubs as a member in second year . In first year , you can be voluteer in events of technical clubs and enjoy their events. :-)
+"/>
+</LinearLayout>
+</ScrollView>

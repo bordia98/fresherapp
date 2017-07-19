@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/inci1"
+    tools:context="com.example.bordia98.firstyearnitk.incident">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Incident - NITK"
+            android:textSize="30dp"
+            android:layout_gravity="center_horizontal"
+            android:textAlignment="center"
+            android:textStyle="bold"/>
+
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp" />
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/inci4"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp" />
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/inci3"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:text="The National Institute of Technology Karnataka (NITK) was founded on the western shores of the Indian peninsula close to the city of Mangalore in the year 1960, and since then it has been galvanizing the countless curious minds that have passed through its gates. Since its inception its spreading the message of cultural heritage by means a vibrant cultural festival called as “Cultural Week” in the premises which attracted a huge response from the nearby districts of Dakshina Kannada. To its credit events like State Level Kannada Drama competition and many other cultural exchange programmes were also a part of it. It was the only institute at that time to invite talented students and to showcase their talents in and around the districts.
+
+It was in the year 1980 that these brilliant minds came up with and successfully staged NITK’s first cultural festival - Incident. And over the years, it has grown in leaps and bounds to become what it is today - a spectacle which enthrals everyone who experiences it.
+
+Incident is the second largest cultural festival of South India. It is now a permanent mark on the calendar, during the months of February - March and attracts over 25000 footfalls every year. This huge ingress is justified, as Incident or 'Inci' is replete with a mind-boggling array of things to do and see. It has featured amazing performances by artistes of calibre likef KK, Kunal Ganjawala, Sunidhi Chauhan, Javed Ali and Salim-Sulaiman, as well as bands such as Indian Ocean, Motherjane, Swarathma and Led Zeppelica. International performing artistes like Roy Zaltsman and The Turbans have also performed at incident in the World Fest, held for the first time in 2014.
+
+There are events to participate in - Haute Couture, Promenade, Slam Dunk, Centre Stage, Bandish... to name a few. There are workshops for those who want to learn, quizzes for those who already know it all and Crossfade -the DJ night- for the party freaks. And of course, there is always the beach inviting you to relax or frolic with friends or even go parasailing, if you are adventurous. Now that's something you don't find everywhere.  Incident is a terrific carnival, something no one would want to miss, because when it comes to Incident, there is something in it for everybody."/>
+
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp" />
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="300dp"
+            android:background="@drawable/inci6"/>
+
+    </LinearLayout>
+</ScrollView>
