@@ -2,7 +2,7 @@
 <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/nitk1">
+    android:background="@drawable/nitkbg3">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -16,7 +16,7 @@
             android:layout_gravity="center_horizontal"
             android:textStyle="bold"
             android:textSize="30dp"
-            android:textColor="#FFFF00"
+            android:textColor="#000000"
             android:text="What to Carry ??"/>
 
         <TextView
@@ -26,7 +26,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="18dp"
-            android:textColor="#FFFF00"
+            android:textColor="#000000"
             android:text="1.) Cotton clothes (the only material which makes the heat tolerable) atleast 7 pairs.
 
  " />
@@ -37,7 +37,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="18dp"
-            android:textColor="#FFFF00"
+            android:textColor="#000000"
             android:text="
 2.) Swimwear (can also be bough in the campus).
 
@@ -48,7 +48,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="18dp"
-            android:textColor="#FFFF00"
+            android:textColor="#000000"
             android:text="
 3.) Bedsheets/blankets.
 
@@ -59,7 +59,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="18dp"
-            android:textColor="#FFFF00"
+            android:textColor="#000000"
             android:text="
 4.) Toileteries(Toothbrush , Toothpaste,Handwash ,Sanitiser , Shampoo, deodrant)
 "/>
@@ -70,7 +70,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="18dp"
-            android:textColor="#FFFF00"
+            android:textColor="#000000"
             android:text="
 
 5.) Umbrella(a must have).
@@ -82,7 +82,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="18dp"
-            android:textColor="#FFFF00"
+            android:textColor="#000000"
             android:text="
 6.)Torch/Emergency Lamp.
 "/>   <TextView
@@ -92,7 +92,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="18dp"
-            android:textColor="#FFFF00"
+            android:textColor="#000000"
             android:text="
 7.)Table Tennis or badminton Racquets if possible , as they can be bought from Mangalore or Surathkal.
 "/>        <TextView
@@ -102,7 +102,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="18dp"
-            android:textColor="#FFFF00"
+            android:textColor="#000000"
             android:text="
 8.) Water Heating rods ; if having a bath with cold water is impossible otherwise not required
 "/>        <TextView
@@ -112,7 +112,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="18dp"
-            android:textColor="#FFFF00"
+            android:textColor="#000000"
             android:text="
 9.)Mirror.
 
@@ -124,7 +124,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="18dp"
-            android:textColor="#FFFF00"
+            android:textColor="#000000"
             android:text="
 10.) Odomos/mosquito repellent coil (if mosquitoes are a real problem , get a net )
 "/>      <TextView
@@ -134,7 +134,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="18dp"
-            android:textColor="#FFFF00"
+            android:textColor="#000000"
             android:text="
 11.) A bagpack for college
 "/>        <TextView
@@ -144,7 +144,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="18dp"
-            android:textColor="#FFFF00"
+            android:textColor="#000000"
             android:text="
 12.) A knife (for fruits and Birthdays)
 "/>       <TextView
@@ -154,7 +154,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="18dp"
-            android:textColor="#FFFF00"
+            android:textColor="#000000"
             android:text="
 13.)shoulder bag
 
@@ -165,7 +165,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="18dp"
-            android:textColor="#FFFF00"
+            android:textColor="#000000"
             android:text="
 
 14.) Towels and napkins
@@ -177,7 +177,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="18dp"
-            android:textColor="#FFFF00"
+            android:textColor="#000000"
             android:text="
 
 15.)A medicinal box
@@ -189,7 +189,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="18dp"
-            android:textColor="#FFFF00"
+            android:textColor="#000000"
             android:text="
 All the other thing which you require are available in the campus even all the above things are also available or somethings which are not available you can buy from the markets of surathkal :-p" />
 

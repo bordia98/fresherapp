@@ -5,7 +5,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/nitk"
+    android:background="@drawable/nitkbg3"
     tools:context="com.example.bordia98.firstyearnitk.culturalclubs">
 
     <LinearLayout
@@ -16,7 +16,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:textColor="#ffffff"
+            android:textColor="#000000"
             android:text="Cultural CLubs -"
             android:textSize="40dp"
             />
@@ -27,7 +27,8 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:textColor="#ffffff"
+            android:textColor="#000000"
+            android:textSize="20dp"
             android:text="
 
 1.) The Rotaract Club conducts social, cultural and technical events for the students and club members alike. These include blood donation camps, cloth donation drives, coastal clean-up camps, and events conducted by the National Service Scheme (NSS) chapter of NITK.
@@ -41,7 +42,8 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:textColor="#ffffff"
+            android:textColor="#000000"
+            android:textSize="20dp"
             android:text="
 2.) The Mangalore chapter of the Society for Promotion of Indian Classical Music and Culture Among Youth (SPICMACAY) is centred at NITK and is one of the biggest chapters in the country. It organises concerts and lectures by maestros of Indian classical art forms and strives to raise awareness of Indian culture in the surrounding regions through lectures, orientations and conventions. The chapter celebrated its Silver Jubilee by hosting the 27th Annual National Convention of SPICMACAY from 28 May to 3 June 2012.
  "/>
@@ -52,7 +54,8 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:textColor="#ffffff"
+            android:textColor="#000000"
+            android:textSize="20dp"
             android:text="
 3.) Literary, Stage and Debating Society (LSD) is the apex literary forum of the institute. The club mainly conducts quizzes while also holding debates and organising plays. LSD was formed in 2004 from the quiz club to cater to literary events other than quizzes. LSD is one of the best quiz clubs in India, having produced quizzers who have won competitions nationwide. Members of the club also contribute to the NITK Quiz blog, which has been active since 2008.
  "/>
@@ -63,7 +66,8 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:textColor="#ffffff"
+            android:textColor="#000000"
+            android:textSize="20dp"
             android:text="
 4.) Dance Dramatics and Fashion Club (DDFC) organises 'Spandan' annually, which provides students a platform to showcase their talent at dance and theatre. The NITK Music Club organises music shows generally called Musical Night and play popular music at the outdoor auditoriums. A variety of styles are on display at these events, from Indian classical music to fusion to rock. The NITK Films Club screens movies at the Student's Activity Centre every Friday during the semester. Apart from English and Hindi releases, regional films are shown as well. The Press Club brings out a fortnightly wall magazine News Wagon, providing a tongue-in-cheek look at life around the campus, besides bringing out the official yearbook, The Vitruvian. VOICE (Vedic Oasis for Inspiration, Culture and Education) is a youth group run by the students, for the students. Using the principles present in the ancient Vedic scriptures, they train students in a blend of character and competence. The NITK Photography Club captures photos and videos of events happening at NITK. It conducts 'Expose', which is a national level photography contest organised yearly during Incident. The club contributes to the official yearbook, The Vitruvian. The Vitruvian has got a rebirth in the year 2013-14 and came out with the new version The Shoreline with vital and profound changes.
  "/>
@@ -75,6 +79,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textColor="#03A9F4"
+            android:textSize="20dp"
             android:text="
 Note-
 Main thing is that you can be a part of cultural club not like technical clubs and you will surely enjoy the amazement of cultural events "/>

@@ -9,6 +9,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
+import android.widget.ImageView;
 
 /**
  * Created by bordia98 on 17/7/17.
@@ -39,8 +40,8 @@ public class clubs extends Fragment {
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
         View view = inflater.inflate(R.layout.clubs,container,false);
 
-        Button tech = (Button) view.findViewById(R.id.technical_clubs);
-        Button cult = (Button) view.findViewById(R.id.cultural_clubs);
+        ImageView tech = (ImageView) view.findViewById(R.id.technicalclubs);
+        ImageView cult = (ImageView) view.findViewById(R.id.culturalclubs);
 
         tech.setOnClickListener(new View.OnClickListener() {
             @Override

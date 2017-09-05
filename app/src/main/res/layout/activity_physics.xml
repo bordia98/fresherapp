@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/nitk"
+    android:background="@drawable/nitkbg3"
     tools:context="com.example.bordia98.firstyearnitk.physics">
 <LinearLayout
     android:layout_width="match_parent"
@@ -17,68 +17,153 @@
         android:layout_height="wrap_content"
         android:textAlignment="center"
         android:text="Physics Books -"
-        android:textColor="#ffffff"
+        android:textColor="#000000"
         android:textSize="30dp"
         android:textStyle="bold" />
 <TextView
     android:layout_width="match_parent"
-    android:layout_height="20dp" />
+    android:layout_height="30dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:textColor="#ffffff"
+        android:textColor="#000000"
         android:textSize="20dp"
-        android:text="1.) mathematics(3 credits) -
+        android:text="1.) Mathematics(3 credits) -
                      Thomas Calculus 11th edition"/>
     <TextView
         android:layout_width="match_parent"
-        android:layout_height="20dp" />
+        android:layout_height="25dp" />
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:textColor="#ffffff"
+        android:textColor="#000000"
+        android:text="For book click on the below link"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="https://drive.google.com/open?id=0BzmHzfeX8Vc0flV5UXB5WkYzNHdwTHRpaC1wSWxHbERmdWdERVJPQVJBelFGQ044eHdpUm8"
+        android:autoLink="all"
+        android:clickable="true"
+        android:textColorLink="@color/colorPrimary"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="25dp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#000000"
         android:textSize="20dp"
         android:text="2.) CO110(4 credits) -
                      Let us C or Ansi C"/>
     <TextView
         android:layout_width="match_parent"
-        android:layout_height="20dp" />
+        android:layout_height="25dp" />
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:textColor="#ffffff"
+        android:textColor="#000000"
+        android:text="For book click on the below link"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="https://drive.google.com/open?id=0BzmHzfeX8Vc0fmFoSWt2SWxuQnpQQmJqQzJIdnVtcFJ4bC1qYkU2aW9yT0Z3X1dpT1N1LUE"
+        android:autoLink="all"
+        android:clickable="true"
+        android:textColorLink="@color/colorPrimary"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="25dp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#000000"
         android:textSize="20dp"
         android:text="3.) ME110(3 credits) -
                      Elements of mechanical Engineering ,KR gopal Krishnan"/>
     <TextView
         android:layout_width="match_parent"
-        android:layout_height="20dp" />
+        android:layout_height="25dp" />
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:textColor="#ffffff"
+        android:textColor="#000000"
+        android:text="For book click on the below link"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="https://drive.google.com/open?id=0BzmHzfeX8Vc0fkdHNXdjbzZjNFFwTTJUOWF6NXdyRnl2YlBubGlHUm1jZEk5REFBb0ZiWGM"
+        android:autoLink="all"
+        android:clickable="true"
+        android:textColorLink="@color/colorPrimary"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="25dp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#000000"
         android:textSize="20dp"
         android:text="4.)EC110 (3 credits)-
                         Morris Manno and Boylestad"/>
     <TextView
         android:layout_width="match_parent"
-        android:layout_height="20dp" />
+        android:layout_height="25dp" />
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:textColor="#ffffff"
+        android:textColor="#000000"
+        android:text="For book click on the below link"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="https://drive.google.com/open?id=0BzmHzfeX8Vc0fkdSMjZWV1VfMURfbm8wQWpWTXJsZGhJTkZRNnRXa3pmdWQ4c3RtTE1nWHc"
+        android:autoLink="all"
+        android:clickable="true"
+        android:textColorLink="@color/colorPrimary"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="25dp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#000000"
         android:textSize="20dp"
         android:text="5.) PY110 (4 credits)-
                      modern physics - Arthur Bieser
                   Ben streetman book for practice"/>
     <TextView
         android:layout_width="match_parent"
-        android:layout_height="20dp" />
+        android:layout_height="25dp" />
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:textColor="#ffffff"
+        android:textColor="#000000"
+        android:text="For book click on the below link"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="https://drive.google.com/open?id=0BzmHzfeX8Vc0fml1WFZKSWNXdlJEcjNjZUhhZXBvSFpNemVQUG05aHBiY29zTF9DREE5aDQ"
+        android:autoLink="all"
+        android:clickable="true"
+        android:textColorLink="@color/colorPrimary"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="25dp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#000000"
         android:textSize="20dp"
         android:text=" 6) HU110 (1 credit)-
                 chill out subject no books to read"/>
@@ -88,7 +173,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:textColor="#ffffff"
+        android:textColor="#000000"
         android:textSize="20dp"
         android:text="7.) PY111 and CO111 (1 credit each)-
                      physics lab and computer lab you will know the syllabus when u entered the lab"/>

@@ -8,6 +8,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
+import android.widget.ImageView;
 
 /**
  * Created by bordia98 on 17/7/17.
@@ -39,9 +40,11 @@ public class books extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
         View view = inflater.inflate(R.layout.books,container,false);
-        Button phy = (Button)view.findViewById(R.id.physics);
-        Button chem = (Button)view.findViewById(R.id.chemistry);
+        //Button phy = (Button)view.findViewById(R.id.physics);
+        //Button chem = (Button)view.findViewById(R.id.chemistry);
 
+        ImageView phy = (ImageView)view.findViewById(R.id.physicscycle);
+        ImageView chem = (ImageView) view.findViewById(R.id.chemistrycycle);
 
         phy.setOnClickListener(new View.OnClickListener() {
             @Override

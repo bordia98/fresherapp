@@ -18,7 +18,8 @@
             <ImageView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:background="@drawable/map1" /> |
+                android:background="@drawable/map1"
+                android:id="@+id/imageview1"/> |
             <ImageView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"

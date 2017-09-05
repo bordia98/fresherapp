@@ -98,8 +98,7 @@ public class MainActivity extends AppCompatActivity
             case R.id.stuff:
                 fragment = new stuff();
                 break;
-            case R.id.contactus:
-                fragment = new contact();
+           
         }
 
 

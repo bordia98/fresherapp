@@ -14,23 +14,27 @@
             android:id="@+id/technical_clubs"
             android:layout_width="match_parent"
             android:layout_height="50sp"
+            android:background="#000000"
             android:text="Technical clubs"/>
 
         <ImageView
             android:layout_width="match_parent"
             android:layout_height="200dp"
-            android:background="@drawable/techclub"/>
+            android:background="@drawable/techclub"
+            android:id="@+id/technicalclubs"/>
 
         <Button
             android:id="@+id/cultural_clubs"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Cultural clubs" />
+            android:text="Cultural clubs"
+            android:background="#000000"/>
 
         <ImageView
             android:layout_width="match_parent"
             android:layout_height="300dp"
-            android:background="@drawable/culturalclub"/>
+            android:background="@drawable/cultclub"
+            android:id="@+id/culturalclubs"/>
 
 
     </LinearLayout>

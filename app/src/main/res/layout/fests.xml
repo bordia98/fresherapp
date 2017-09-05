@@ -2,7 +2,7 @@
 <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/nitk">
+    android:background="@drawable/nitkbg3">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -11,7 +11,7 @@
 
         <TextView
             android:layout_width="match_parent"
-            android:layout_height="20dp" />
+            android:layout_height="40dp" />
         <Button
             android:id="@+id/engineer"
             android:layout_width="match_parent"
@@ -20,10 +20,11 @@
             android:text="1.) Engineer- Techfest"
             android:textSize="25dp"
             android:textStyle="bold"
-            android:background="#000000"/>
+            android:layout_gravity="center_horizontal"
+            android:background="@drawable/round"/>
         <TextView
             android:layout_width="match_parent"
-            android:layout_height="20dp" />
+            android:layout_height="30dp" />
         <Button
             android:id="@+id/incident"
             android:layout_width="match_parent"
@@ -32,11 +33,11 @@
             android:text="2.) Incident - culturalfest"
             android:textSize="25dp"
             android:textStyle="bold"
-            android:background="#000000"/>
+            android:background="@drawable/round"/>
         <TextView
 
             android:layout_width="match_parent"
-            android:layout_height="20dp" />
+            android:layout_height="30dp" />
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -45,10 +46,10 @@
             android:textSize="25dp"
             android:textStyle="bold"
             android:id="@+id/crescendo"
-            android:background="#000000"/>
+            android:background="@drawable/round"/>
         <TextView
             android:layout_width="match_parent"
-            android:layout_height="20dp" />
+            android:layout_height="30dp" />
         <Button
             android:id="@+id/pheonix"
             android:layout_width="match_parent"
@@ -57,10 +58,10 @@
             android:text="4.) Pheonix"
             android:textSize="25dp"
             android:textStyle="bold"
-            android:background="#000000"/>
+            android:background="@drawable/round"/>
         <TextView
             android:layout_width="match_parent"
-            android:layout_height="20dp" />
+            android:layout_height="30dp" />
         <Button
             android:id="@+id/spandan"
             android:layout_width="match_parent"
@@ -69,10 +70,10 @@
             android:text="5.)Spandan"
             android:textSize="25dp"
             android:textStyle="bold"
-            android:background="#000000"/>
+            android:background="@drawable/round"/>
         <TextView
-        android:layout_width="match_parent"
-        android:layout_height="20dp" />
+            android:layout_width="match_parent"
+            android:layout_height="30dp" />
 
         <Button
             android:id="@+id/bd"
@@ -82,6 +83,6 @@
             android:text="6.)Bharat Darshan "
             android:textSize="25dp"
             android:textStyle="bold"
-            android:background="#000000"/>
+            android:background="@drawable/round"/>
     </LinearLayout>
 </ScrollView>
